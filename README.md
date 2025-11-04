@@ -77,10 +77,13 @@ Incoming Email (Gmail IMAP)
 
 ## 📸 Demo Screenshot
 
-*(Add your n8n workflow screenshot here — like the one you shared)*
+[*(Add your n8n workflow screenshot here — like the one you shared)*
 `/images/workflow.png`
+](https://www.linkedin.com/posts/jaydeb-sarader-39210b193_n8n-ai-automation-activity-7391355137044279296-bBJi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC1miF4Brb3cSckfkwPiHDYoyNbPQUMKl6I)
 
----
+
+---<img width="1599" height="714" alt="image" src="https://github.com/user-attachments/assets/8d2fea25-4485-4e61-a625-ae260be79fed" />
+
 
 ## 🏷 Keywords
 
